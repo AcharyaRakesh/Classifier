@@ -1,2 +1,2 @@
 # Classifier
-## Convolutional Neural Network based project 
+## A Convolutional Neural Network based project 
